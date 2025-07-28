@@ -21,7 +21,7 @@ The script automatically performs the following steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/abhimnyu09
+    git clone https://github.com/abhimnyu09/High-Frequency-Trading-Strategy-Backtester
     cd High-Frequency-Trading-Strategy-Backtester
     ```
 
