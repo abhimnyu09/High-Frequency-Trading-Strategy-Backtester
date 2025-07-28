@@ -28,14 +28,15 @@ The script automatically performs the following steps:
 2.  **Install dependencies:**
     Make sure you have Python 3 installed. Then, run the following command to install the required libraries:
     ```bash
-    pip install requests pandas scikit-learn lightgbm matplotlib
+    pip3 install requests pandas scikit-learn lightgbm matplotlib
     ```
 
 3.  **Run the script:**
     ```bash
-    python main.py
+    python3 main.py
     ```
     The script will download the latest data, train the model, and display the PnL plot.
+    For Windows,use pip and python in place of pip3 and python3.
 
 ## Results and Analysis
 
