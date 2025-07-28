@@ -33,7 +33,7 @@ The script automatically performs the following steps:
 
 3.  **Run the script:**
     ```bash
-    python your_script_name.py
+    python main.py
     ```
     The script will download the latest data, train the model, and display the PnL plot.
 
